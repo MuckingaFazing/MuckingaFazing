@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dante Francois van der Merwe
+- 👀 I’m interested in IOT and integration
+- 🌱 I’m currently learning how to be more productive
+- 💞️ I’m looking to collaborate on any open source projects
+- 📫 reach me via email on dante.merwe@gmail.com
